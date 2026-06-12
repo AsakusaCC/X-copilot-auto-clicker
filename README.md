@@ -9,7 +9,7 @@ An unofficial automation snippet for the [X Copilot](https://github.com/baryon/x
 1. Click the **X Copilot** icon to open the popup panel.
 2. Right-click **inside the popup**, and select **Inspect (检查)**.
 3. Switch to the **Console** tab in the newly opened window.
-4. Copy all code from [`clicker.js`](./clicker.js), paste it into the Console, and press **Enter**.
+4. Copy all code from [`index.js`](./index.js), paste it into the Console, and press **Enter**.
 
 *Note: Keep the popup open while the script is running. Do not click outside.*
 
